@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://duanopalcityq9.blogspot.com/' target='_blank'><img src='http://linkingland.com.vn/wp-content/uploads/2018/10/IMG-6532.jpg' width='500px'/><br/>13 căn hộ opal city</a>. liên hệ lấy căn đẹp. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://duanopalcityq9.blogspot.com/' target='_blank'><img src='http://linkingland.com.vn/wp-content/uploads/2018/10/IMG-6532.jpg' width='500px'/><br/> căn hộ opal city</a>. liên hệ lấy căn đẹp. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
